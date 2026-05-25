@@ -19,3 +19,19 @@ This project is a Business Analysis case study focused on designing a digital pr
 
 ## Project Status
 In Progress 🚀
+## System Diagrams
+
+### Use Case Diagram
+![Use Case](05-Diagrams/UseCaseDiagram.png)
+
+### Activity Diagram
+![Activity](05-Diagrams/PrescriptionActivity.png)
+
+### Current Process Flow
+![AS-IS](05-Diagrams/AsIsProcessFlow.png)
+
+### Proposed Process Flow
+![TO-BE](05-Diagrams/ToBeProcessFlow.png)
+
+### Sequence Diagram
+![Sequence](05-Diagrams/PrescriptionSequence.png)
