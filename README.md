@@ -25,7 +25,7 @@ In Progress 🚀
 ![Use Case](05-Diagrams/UseCaseDiagram.png)
 
 ### Activity Diagram
-![Activity](05-Diagrams/PrescriptionActivity.png)
+!Diagrams/MyFirstBA CaseStudy/Activity.png)
 
 ### Current Process Flow
 ![AS-IS](05-Diagrams/AsIsProcessFlow.png)
